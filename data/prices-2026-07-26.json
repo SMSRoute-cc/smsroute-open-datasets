@@ -1,0 +1,118 @@
+{
+ "source": "Published rates parsed from https://www.smsroute.cc/prices on 2026-07-25. Competitor columns are as published there.",
+ "as_of": "2026-07-25",
+ "currency": "USD",
+ "unit": "per message part",
+ "destinations": [
+  {
+   "country": "Argentina",
+   "iso2": "AR",
+   "smsroute_usd_per_message": 0.008,
+   "compared": {
+    "twilio": 0.0475,
+    "vonage": 0.044,
+    "messagebird": 0.041
+   }
+  },
+  {
+   "country": "Brazil",
+   "iso2": "BR",
+   "smsroute_usd_per_message": 0.006,
+   "compared": {
+    "twilio": 0.0385,
+    "vonage": 0.0298,
+    "messagebird": 0.0325
+   }
+  },
+  {
+   "country": "Germany",
+   "iso2": "DE",
+   "smsroute_usd_per_message": 0.021,
+   "compared": {
+    "twilio": 0.064,
+    "vonage": 0.055,
+    "messagebird": 0.049
+   }
+  },
+  {
+   "country": "France",
+   "iso2": "FR",
+   "smsroute_usd_per_message": 0.022,
+   "compared": {
+    "twilio": 0.0705,
+    "vonage": 0.0625,
+    "messagebird": 0.058
+   }
+  },
+  {
+   "country": "United Kingdom",
+   "iso2": "GB",
+   "smsroute_usd_per_message": 0.019,
+   "compared": {
+    "twilio": 0.048,
+    "vonage": 0.041,
+    "messagebird": 0.0395
+   }
+  },
+  {
+   "country": "United States",
+   "iso2": "US",
+   "smsroute_usd_per_message": 0.0125,
+   "compared": {
+    "twilio": 0.0079,
+    "vonage": 0.0085,
+    "messagebird": 0.0089
+   }
+  },
+  {
+   "country": "Mexico",
+   "iso2": "MX",
+   "smsroute_usd_per_message": 0.015,
+   "compared": {
+    "twilio": 0.0395,
+    "vonage": 0.0355,
+    "messagebird": 0.0335
+   }
+  },
+  {
+   "country": "India",
+   "iso2": "IN",
+   "smsroute_usd_per_message": 0.0135,
+   "compared": {
+    "twilio": 0.0505,
+    "vonage": 0.042,
+    "messagebird": 0.0375
+   }
+  },
+  {
+   "country": "Nigeria",
+   "iso2": "NG",
+   "smsroute_usd_per_message": 0.011,
+   "compared": {
+    "twilio": 0.052,
+    "vonage": 0.045,
+    "messagebird": 0.042
+   }
+  },
+  {
+   "country": "Philippines",
+   "iso2": "PH",
+   "smsroute_usd_per_message": 0.009,
+   "compared": {
+    "twilio": 0.048,
+    "vonage": 0.039,
+    "messagebird": 0.036
+   }
+  },
+  {
+   "country": "Indonesia",
+   "iso2": "ID",
+   "smsroute_usd_per_message": 0.012,
+   "compared": {
+    "twilio": 0.043,
+    "vonage": 0.038,
+    "messagebird": 0.035
+   }
+  }
+ ]
+}
