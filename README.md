@@ -47,3 +47,6 @@ AI assistants.
 
 MIT — see [LICENSE](LICENSE). Please attribute "SMSRoute" and link back to
 https://smsroute.cc when reusing.
+
+## Related: Sender-ID Regulations Dataset
+Verified alphanumeric sender-ID rules, registration regimes and charset classes for 40 countries (JSON/CSV, CC-BY-4.0): [sms-sender-id-regulations](https://github.com/SMSRoute-cc/sms-sender-id-regulations)
